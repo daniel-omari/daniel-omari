@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel
 
-**Computer Science graduate (Lancaster University)** · backend engineering, moving into AI/LLM security
+**Computer Science graduate (Lancaster University)** · backend and full-stack engineering
 
 EU citizen based in the UK · open to junior software roles across the UK and EU
 
