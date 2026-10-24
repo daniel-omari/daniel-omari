@@ -1,28 +1,23 @@
 ## Hi, I'm Daniel
 
-Computer Science graduate (BSc Hons, Lancaster University) focused on backend
-engineering and AI/LLM security. EU citizen based in the UK and willing to
-relocate; open to junior software roles across the UK and EU.
+**Computer Science graduate (Lancaster University)** · backend engineering, moving into AI/LLM security
 
-### Highlights
+EU citizen based in the UK · open to junior software roles across the UK and EU
 
-- [LLM Blue-Team Guardrail](https://github.com/daniel-omari/llm-blue-team-guardrail):
-  layered prompt-injection defence with a hardened LLM judge, guarded RAG and an
-  MCP server (FastAPI, React + TypeScript, PostgreSQL/pgvector, Docker, CI).
-  100% precision / 95% recall on attacks aimed at the judge itself; running live at
-  [daniel-omari-llm-blue-team-guardrail.hf.space](https://daniel-omari-llm-blue-team-guardrail.hf.space)
-- [Real-Time Multiplayer Tic-Tac-Toe](https://github.com/daniel-omari/TicTacToe):
-  strict-TypeScript full-stack game (Node, WebSockets, SQLite) with private rooms,
-  quick match and a minimax AI that is tested to never lose; live at
-  [tictactoe-n3eh.onrender.com](https://tictactoe-n3eh.onrender.com)
-- [JVM Pixel Editor](https://github.com/daniel-omari/jvm-pixel-editor):
-  Java/Kotlin desktop raster editor with a full layer system, shipped as a
-  [Windows installer](https://github.com/daniel-omari/jvm-pixel-editor/releases)
-- [Distributed Auction System](https://github.com/daniel-omari/Distributed-Auction-System):
-  fault-tolerant, actively-replicated Java cluster (gRPC + RMI)
-- [AI Security: red-teaming and guardrails](https://github.com/daniel-omari/ml-security-redteaming-guardrails):
-  adversarial ML attacks and LLM red-teaming, the offensive half of the guardrail project
+### Projects
 
-**Stack:** Python, Java, Kotlin, TypeScript · FastAPI, React, Node · Docker, GitHub Actions, PostgreSQL + pgvector
+| Project | In one line | Built with |
+| --- | --- | --- |
+| [**LLM Blue-Team Guardrail**](https://github.com/daniel-omari/llm-blue-team-guardrail) · [live](https://daniel-omari-llm-blue-team-guardrail.hf.space) | Stops prompt-injection attacks before they reach an AI model | Python, FastAPI, React |
+| [**Tic-Tac-Toe Online**](https://github.com/daniel-omari/TicTacToe) · [live](https://tictactoe-n3eh.onrender.com) | Real-time multiplayer, with an AI that never loses | TypeScript, Node, WebSockets |
+| [**JVM Pixel Editor**](https://github.com/daniel-omari/jvm-pixel-editor) · [download](https://github.com/daniel-omari/jvm-pixel-editor/releases) | Desktop pixel-art editor with layers, shipped as a Windows installer | Java, Kotlin |
+| [**Distributed Auction System**](https://github.com/daniel-omari/Distributed-Auction-System) | An auction cluster that keeps running when servers crash | Java, gRPC |
+| [**AI Security coursework**](https://github.com/daniel-omari/ml-security-redteaming-guardrails) | Attacking ML models and red-teaming LLMs: the other half of the guardrail | Python, PyTorch |
 
-Reach me at domari.agn@gmail.com or [LinkedIn](https://linkedin.com/in/daniel-omari-agn).
+### Stack
+
+Python · Java · Kotlin · TypeScript · FastAPI · React · Node · Docker · PostgreSQL · GitHub Actions
+
+### Contact
+
+[domari.agn@gmail.com](mailto:domari.agn@gmail.com) · [LinkedIn](https://linkedin.com/in/daniel-omari-agn)
